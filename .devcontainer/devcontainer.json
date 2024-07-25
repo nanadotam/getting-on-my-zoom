@@ -1,0 +1,12 @@
+{
+    // Name this configuration:
+    // Nana's config
+    "name": "Nana's config",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
